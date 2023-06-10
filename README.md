@@ -11,8 +11,8 @@
  </p>
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TeomanBas&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="havasutahta" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TeomanBas&show_icons=true&theme=github_dark&locale=en" alt="havasutahta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TeomanBas&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="TeomanBas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TeomanBas&show_icons=true&theme=github_dark&locale=en" alt="TeomanBas" /></p>
 
 
 
