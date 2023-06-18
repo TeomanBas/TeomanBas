@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teoman </h1>
 
 <h3 align="left">Connect with me:</h3>
-<p>📫 <b>teomanbas@protonmail.com</b></p>
+<a href="mailto:teomanbas@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=black"></a>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
