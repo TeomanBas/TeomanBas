@@ -1,17 +1,66 @@
-<h1 align="center">Hi 👋, I'm Teoman </h1>
+<h1 align="center">👋 Hi there, I'm Teoman </h1>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+I'm a developer who loves technology and enjoys learning new things every day.  
+I see every opportunity as a new experience, always eager to improve myself and build new projects.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 **Developer & Technology Enthusiast**
+- 🌱 Currently exploring **Artificial Intelligence**
+- 🎯 My goal: Work as a freelancer, build projects, and grow my portfolio.
+- 🧠 Learning is not just a task for me, it's a way of life.
+
+---
+
+## 💼 What I Do
+
+| Field | Technologies |
+|--------|-------------|
+| **Frontend** | HTML, CSS, JavaScript, Bootstrap, AngularJS |
+| **Backend** | Node.js, PHP, Python, C#, C  |
+| **Database** | MySQL, Mssql|
+| **Others** | Git, GitHub, Jekyll, Django|
+
+---
+
+## 🗂️ Some of My Projects
+
+| Project | Description | Link |
+|----------|-------------|------|
+| **File Sharing Platform** | A project for easily sharing large files | [GitHub](https://github.com/TeomanBas) |
+| **Simple Blog** | A minimalistic blog experiment | [GitHub](https://github.com/TeomanBas) |
+| **Auth Form** | Login and registration forms | [GitHub](https://github.com/TeomanBas) |
+| **More Projects** | Continuously adding new projects | [All Repos](https://github.com/TeomanBas?tab=repositories) |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TeomanBas&show_icons=true&theme=radical" alt="Teoman's GitHub stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeomanBas&layout=compact&theme=radical" alt="Teoman's Top Languages" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
 <a href="mailto:teomanbas@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=black"></a>
-<hr>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
- </p>
+---
 
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TeomanBas&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="TeomanBas" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TeomanBas&show_icons=true&theme=github_dark&locale=en" alt="TeomanBas" /></p>
+## 📝 Final Note
 
+Learning something new every day is not just a goal for me, it's a lifestyle.  
+I'll keep sharing new projects and experiments here.
 
-
+**💡 Open to collaborations and suggestions!**
